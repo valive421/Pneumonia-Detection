@@ -2,6 +2,15 @@
 
 *A Deep Learning Web App for Chest X-Ray Diagnosis*
 
+# LIVE LINK 
+https://pneumonia-detection-eeadnxmid8p9npnmksmpd4.streamlit.app/
+
+# Demo
+
+
+https://github.com/user-attachments/assets/a356fb76-b2a0-4bfa-aed6-e4a9f7a2b4b9
+
+
 ---
 
 ## 📝 **Overview**
